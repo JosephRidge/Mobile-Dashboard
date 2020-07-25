@@ -5,6 +5,14 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style>
+        <item name="android:textColor">@color/colorFont</item>
 
+    </style>
+    <style name="AppTheme.TextView" parent="android:Widget.TextView">
+<!--        <item name="android:textColor">@color/colorFont</item>-->
+    </style>
+    <style name="Divider">
+
+
+    </style>
 </resources>

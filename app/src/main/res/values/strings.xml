@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Airquality</string>
+<string name="app_name" > <font fgcolor="#346B91">AirQuality</font></string>
+
+
 </resources>
